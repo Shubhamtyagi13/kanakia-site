@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+kanakiapowaicodenamefuture.in	TRUE	/	FALSE	1999999999	cstm_ppc_keyword	deleted
+kanakiapowaicodenamefuture.in	TRUE	/	FALSE	1999999999	cstm_ppc_channel	deleted
+kanakiapowaicodenamefuture.in	TRUE	/	FALSE	1999999999	cstm_ppc_campaign	deleted
+kanakiapowaicodenamefuture.in	TRUE	/	FALSE	1999999999	cstm_ppc_placement	deleted
+kanakiapowaicodenamefuture.in	TRUE	/	FALSE	1999999999	gclid	deleted
+kanakia.realatte.com	TRUE	/	FALSE	1999999999	8503f4ca5301c697ff31cec4540fc54e	mehq8jsd3mnt7h0mh7c8c5q9e7
+
